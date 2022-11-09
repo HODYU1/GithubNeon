@@ -1,18 +1,18 @@
 # GithubNeon
 ## 취미로 코딩하는 개발자입니다
 ### Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-2945f1?style=flat&logo=JAVA&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Tools
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![GithubNeon](https://github-readme-stats.vercel.app/api?username=GithubNeon&show_icons=true&theme=github_dark)
-![GithubNeon](https://github-readme-stats.vercel.app/api/top-langs/?username=GithubNeon&langs_count=3&layout=compact&theme=github_dark)
+[![GithubNeon](https://github-readme-stats.vercel.app/api?username=GithubNeon&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GithubNeon](https://github-readme-stats.vercel.app/api/top-langs/?username=GithubNeon&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
