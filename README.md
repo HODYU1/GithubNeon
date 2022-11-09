@@ -14,5 +14,4 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[![GithubNeon](https://github-readme-stats.vercel.app/api?username=GithubNeon&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GithubNeon](https://github-readme-stats.vercel.app/api/top-langs/?username=GithubNeon&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GithubNeon](https://github-readme-stats.vercel.app/api?username=GithubNeon&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![GithubNeon](https://github-readme-stats.vercel.app/api/top-langs/?username=GithubNeon&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
